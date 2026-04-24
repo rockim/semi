@@ -23,4 +23,4 @@ current commit).
 - SEMI-TASK-012
 
 ## Status
-In Progress
+Completed
