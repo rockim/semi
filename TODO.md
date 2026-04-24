@@ -4,7 +4,7 @@
 
 - [ ] SEMI-TASK-001: Initialize project structure (Claude — In Review, PR #1)
 - [ ] SEMI-TASK-002: Establish repository baseline and traceability (Claude — In Progress)
-- [ ] SEMI-TASK-010: Clean up SEMI-TASK-001 traceability and branch scope (Claude — Pending)
+- [ ] SEMI-TASK-010: Clean up SEMI-TASK-001 traceability and branch scope (Claude — In Progress)
 
 ## Backlog
 

@@ -35,8 +35,15 @@ In Review
 ## Branch
 feature/SEMI-TASK-001-project-structure
 
+## Scope Exception
+`QA-2026-04-24-001.md` and `tasks/SEMI-TASK-002-*.md` are included in the
+`feature/SEMI-TASK-001-project-structure` commit because Codex QA created both files
+on the local filesystem *before* `git init` was run. At the time of the first `git add`,
+these files already existed and could not be excluded without discarding Codex QA output.
+The exception is documented here in lieu of rewriting published branch history.
+
 ## Traceability
 - Requirement: SEMI-REQ-001
 - Commit: 46e852e
-- QA Report: QA-2026-04-24-001 (initial — FAIL), QA-2026-04-24-002 (second review — FAIL; see SEMI-TASK-010)
+- QA Report: QA-2026-04-24-001 (initial — FAIL), QA-2026-04-24-002 (second review — FAIL; resolved by SEMI-TASK-010)
 - Release Note: v0.1.0 (planned)
