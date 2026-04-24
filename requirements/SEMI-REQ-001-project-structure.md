@@ -20,4 +20,4 @@ The semi repository must have a documented, consistent folder structure so that 
 - SEMI-TASK-001
 
 ## Status
-In Review
+Completed

@@ -44,15 +44,15 @@ SEMI-REQ-002
 Claude (Developer)
 
 ## Status
-In Progress
+Completed
 
 ## Branch
 feature/SEMI-TASK-002-repository-baseline
 
 ## Traceability
 - Requirement: SEMI-REQ-002
-- Commit: (pending)
-- QA Report: (pending)
+- Commit: 60c83dc
+- QA Report: (pending — Codex review of this branch)
 - Release Note: v0.1.0 (planned)
 
 ## Suggested Commit Message
