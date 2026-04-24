@@ -39,8 +39,8 @@ feature/SEMI-TASK-010-traceability-cleanup
 ## Traceability
 - Requirement: SEMI-REQ-010
 - Commit: f326543
-- QA Report: (pending — Codex review of this branch)
-- Release Note: v0.1.0 (planned)
+- QA Report: QA-2026-04-24-003 (Phase 1 closure review — FAIL → resolved by SEMI-TASK-011)
+- Release Note: docs/release-notes/v0.1.0.md
 
 ## Suggested Commit Message
 [SEMI-TASK-010] Clean up SEMI-TASK-001 traceability and scope

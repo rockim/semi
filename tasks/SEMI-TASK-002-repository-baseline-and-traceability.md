@@ -52,8 +52,8 @@ feature/SEMI-TASK-002-repository-baseline
 ## Traceability
 - Requirement: SEMI-REQ-002
 - Commit: 60c83dc
-- QA Report: (pending — Codex review of this branch)
-- Release Note: v0.1.0 (planned)
+- QA Report: QA-2026-04-24-003 (Phase 1 closure review — FAIL → resolved by SEMI-TASK-011)
+- Release Note: docs/release-notes/v0.1.0.md
 
 ## Suggested Commit Message
 [SEMI-TASK-002] Establish repository baseline and traceability
