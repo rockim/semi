@@ -38,7 +38,7 @@ feature/SEMI-TASK-013-close-phase1
 
 ## Traceability
 - Requirement: SEMI-REQ-013
-- Commit: (this commit)
+- Commit: cbced36
 - QA Report: terminal — QA-2026-04-24-005 is the last Phase 1 QA review; no further follow-up expected
 - Release Note: docs/release-notes/v0.1.0.md
 
