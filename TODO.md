@@ -19,3 +19,4 @@
 - [x] SEMI-TASK-004: Project domain model — commit 0d91a79 (2026-04-24)
 - [x] SEMI-TASK-005: Workflow state model — commit 8639174 (2026-04-24)
 - [x] SEMI-TASK-021: Enforce workflow color validation and clean task status — commit d22ec75 (2026-04-24)
+- [x] SEMI-TASK-022: Add missing dev log for SEMI-TASK-021 — commit (this commit) (2026-04-24)

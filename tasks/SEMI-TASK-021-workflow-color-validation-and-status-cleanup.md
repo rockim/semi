@@ -38,5 +38,5 @@ feature/SEMI-TASK-005-workflow-state-model
 - Requirement: SEMI-REQ-021
 - Trigger QA: QA-2026-04-24-016
 - Commit: d22ec75
-- QA Report: (pending Codex review — will be updated with report ID after QA pass)
+- QA Report: QA-2026-04-24-017 (findings resolved in SEMI-TASK-022)
 - Release Note: docs/release-notes/v0.2.0.md (planned)
