@@ -37,5 +37,23 @@ Establish repository baseline and documentation traceability for initial project
 - No editor backup or unrelated artifact remains in task scope.
 - `SEMI-TASK-001` can be traced to a requirement and a commit.
 
+## Requirement
+SEMI-REQ-002
+
+## Assignee
+Claude (Developer)
+
+## Status
+In Progress
+
+## Branch
+feature/SEMI-TASK-002-repository-baseline
+
+## Traceability
+- Requirement: SEMI-REQ-002
+- Commit: (pending)
+- QA Report: (pending)
+- Release Note: v0.1.0 (planned)
+
 ## Suggested Commit Message
 [SEMI-TASK-002] Establish repository baseline and traceability
