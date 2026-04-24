@@ -42,7 +42,8 @@ history and does not affect Phase 2 implementation correctness. Removing it from
 git history would require destructive rewrite; the exception is documented here instead.
 
 ## Traceability
-- Requirement: SEMI-REQ-003
+- Requirement: SEMI-REQ-015
 - Trigger QA: QA-2026-04-24-008
 - Commit: 3a453cf
+- QA Report: QA-2026-04-24-009 (findings resolved in SEMI-TASK-016)
 - Release Note: docs/release-notes/v0.2.0.md (planned)
