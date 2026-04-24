@@ -31,6 +31,6 @@ feature/SEMI-TASK-004-project-domain-model
 
 ## Traceability
 - Requirement: SEMI-REQ-004
-- Commit: (this commit)
+- Commit: 0d91a79
 - QA Report: terminal — no further QA follow-up
 - Release Note: docs/release-notes/v0.2.0.md (planned)
