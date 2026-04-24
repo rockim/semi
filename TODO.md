@@ -2,7 +2,7 @@
 
 ## Active
 
-<!-- No active tasks — Phase 1 complete -->
+- [ ] SEMI-TASK-011: Close Phase 1 release traceability for v0.1.0 (Claude — In Progress)
 
 ## Backlog
 
