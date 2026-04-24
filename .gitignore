@@ -1,3 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.env
+
 # Editor backup files
 *.md~
 *~
