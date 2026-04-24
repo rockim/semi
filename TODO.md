@@ -21,4 +21,4 @@
 - [x] SEMI-TASK-012: Finalize Phase 1 closeout and remove remaining placeholders — merged (2026-04-24)
 - [x] SEMI-TASK-015: Enforce issue schema validation and branch scope cleanup — commit 3a453cf (2026-04-24)
 - [x] SEMI-TASK-016: Align traceability and status for SEMI-TASK-015 — commit 79d6cfe (2026-04-24)
-- [x] SEMI-TASK-017: Close SEMI-TASK-016 status across project documents — commit (this commit) (2026-04-24)
+- [x] SEMI-TASK-017: Close SEMI-TASK-016 status across project documents — commit 79298d8 (2026-04-24)

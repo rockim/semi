@@ -35,6 +35,6 @@ feature/SEMI-TASK-017-close-semi-task-016-status
 ## Traceability
 - Requirement: SEMI-REQ-017
 - Trigger QA: QA-2026-04-24-010
-- Commit: (this commit)
+- Commit: 79298d8
 - QA Report: terminal — no further QA follow-up
 - Release Note: docs/release-notes/v0.2.0.md (planned)
