@@ -39,5 +39,5 @@ feature/SEMI-TASK-018-record-qa-traceability-for-task-004
 - Requirement: SEMI-REQ-018
 - Trigger QA: QA-2026-04-24-012
 - Commit: 74fa023
-- QA Report: (pending Codex review — will be updated with report ID after QA pass)
+- QA Report: QA-2026-04-24-013
 - Release Note: docs/release-notes/v0.2.0.md (planned)
