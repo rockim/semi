@@ -3,7 +3,7 @@
 ## Active
 
 - [ ] SEMI-TASK-003: Issue domain model (Claude — In Progress)
-- [ ] SEMI-TASK-015: Enforce issue schema validation and branch scope cleanup (Claude — In Progress)
+- [ ] SEMI-TASK-016: Align traceability and status for SEMI-TASK-015 (Claude — In Progress)
 
 ## Backlog
 - [ ] SEMI-TASK-004: Project domain model
@@ -20,3 +20,4 @@
 - [x] SEMI-TASK-010: Clean up SEMI-TASK-001 traceability and branch scope — merged PR #4 (2026-04-24)
 - [x] SEMI-TASK-011: Close Phase 1 release traceability for v0.1.0 — commit e56f27c (2026-04-24)
 - [x] SEMI-TASK-012: Finalize Phase 1 closeout and remove remaining placeholders — merged (2026-04-24)
+- [x] SEMI-TASK-015: Enforce issue schema validation and branch scope cleanup — commit 3a453cf (2026-04-24)
