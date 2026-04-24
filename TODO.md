@@ -3,6 +3,7 @@
 ## Active
 
 - [ ] SEMI-TASK-003: Issue domain model (Claude — In Progress)
+- [ ] SEMI-TASK-015: Enforce issue schema validation and branch scope cleanup (Claude — In Progress)
 
 ## Backlog
 - [ ] SEMI-TASK-004: Project domain model

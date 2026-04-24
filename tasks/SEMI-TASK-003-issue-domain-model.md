@@ -40,5 +40,5 @@ feature/SEMI-TASK-003-issue-domain-model
 ## Traceability
 - Requirement: SEMI-REQ-003
 - Commit: 5073e80
-- QA Report: pending Codex review
+- QA Report: QA-2026-04-24-008 (findings resolved in SEMI-TASK-015)
 - Release Note: docs/release-notes/v0.2.0.md (planned)
