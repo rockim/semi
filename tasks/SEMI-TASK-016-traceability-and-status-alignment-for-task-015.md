@@ -37,4 +37,5 @@ feature/SEMI-TASK-016-traceability-and-status-alignment-for-task-015
 - Requirement: SEMI-REQ-016
 - Trigger QA: QA-2026-04-24-009
 - Commit: 79d6cfe
+- QA Report: QA-2026-04-24-010 (findings resolved in SEMI-TASK-017)
 - Release Note: docs/release-notes/v0.2.0.md (planned)
