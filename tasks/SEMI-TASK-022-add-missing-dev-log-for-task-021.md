@@ -34,6 +34,6 @@ feature/SEMI-TASK-005-workflow-state-model
 ## Traceability
 - Requirement: SEMI-REQ-022
 - Trigger QA: QA-2026-04-24-017
-- Commit: (this commit)
+- Commit: 1b0cabe
 - QA Report: (pending Codex review — will be updated with report ID after QA pass)
 - Release Note: docs/release-notes/v0.2.0.md (planned)
