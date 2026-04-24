@@ -44,5 +44,5 @@ git history would require destructive rewrite; the exception is documented here 
 ## Traceability
 - Requirement: SEMI-REQ-003
 - Trigger QA: QA-2026-04-24-008
-- Commit: (this commit)
+- Commit: 3a453cf
 - Release Note: docs/release-notes/v0.2.0.md (planned)
