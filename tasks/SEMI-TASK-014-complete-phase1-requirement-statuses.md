@@ -34,7 +34,7 @@ feature/SEMI-TASK-014-complete-req-statuses
 
 ## Traceability
 - Requirement: SEMI-REQ-014
-- Commit: (this commit)
+- Commit: 52ad994
 - QA Report: terminal — QA-2026-04-24-006 is the last Phase 1 QA review
 - Release Note: docs/release-notes/v0.1.0.md
 
