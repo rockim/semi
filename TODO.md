@@ -2,9 +2,7 @@
 
 ## Active
 
-- [ ] SEMI-TASK-001: Initialize project structure (Claude — In Review, PR #1)
-- [ ] SEMI-TASK-002: Establish repository baseline and traceability (Claude — In Progress)
-- [ ] SEMI-TASK-010: Clean up SEMI-TASK-001 traceability and branch scope (Claude — In Progress)
+<!-- No active tasks — Phase 1 complete -->
 
 ## Backlog
 
@@ -18,4 +16,6 @@
 
 ## Completed
 
-<!-- Move tasks here once QA passes and PR is merged -->
+- [x] SEMI-TASK-001: Initialize project structure — merged PR #1 (2026-04-24)
+- [x] SEMI-TASK-002: Establish repository baseline and traceability — merged PR #4 (2026-04-24)
+- [x] SEMI-TASK-010: Clean up SEMI-TASK-001 traceability and branch scope — merged PR #4 (2026-04-24)
