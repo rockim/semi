@@ -46,4 +46,4 @@ The exception is documented here in lieu of rewriting published branch history.
 - Requirement: SEMI-REQ-001
 - Commit: 46e852e
 - QA Report: QA-2026-04-24-001 (initial — FAIL), QA-2026-04-24-002 (second review — FAIL; resolved by SEMI-TASK-010)
-- Release Note: v0.1.0 (planned)
+- Release Note: docs/release-notes/v0.1.0.md

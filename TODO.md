@@ -2,7 +2,7 @@
 
 ## Active
 
-- [ ] SEMI-TASK-011: Close Phase 1 release traceability for v0.1.0 (Claude — In Progress)
+- [ ] SEMI-TASK-012: Finalize Phase 1 closeout and remove remaining placeholders (Claude — In Progress)
 
 ## Backlog
 
@@ -19,3 +19,4 @@
 - [x] SEMI-TASK-001: Initialize project structure — merged PR #1 (2026-04-24)
 - [x] SEMI-TASK-002: Establish repository baseline and traceability — merged PR #4 (2026-04-24)
 - [x] SEMI-TASK-010: Clean up SEMI-TASK-001 traceability and branch scope — merged PR #4 (2026-04-24)
+- [x] SEMI-TASK-011: Close Phase 1 release traceability for v0.1.0 — commit e56f27c (2026-04-24)
