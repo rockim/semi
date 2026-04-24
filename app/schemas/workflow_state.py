@@ -9,7 +9,7 @@ from app.domain.workflow_state import WorkflowStateCategory
 class WorkflowStateCreate(BaseModel):
     name: str = Field(max_length=100)
     description: Optional[str] = None
-    color: Optional[str] = Field(None, max_length=7)
+    color: Optional[str] = Field(None, max_length=7, pattern=r'^#[0-9A-Fa-f]{3}([0-9A-Fa-f]{3})?$')
     category: WorkflowStateCategory = WorkflowStateCategory.TODO
     project_id: str
     display_order: int = 0
@@ -19,7 +19,7 @@ class WorkflowStateCreate(BaseModel):
 class WorkflowStateUpdate(BaseModel):
     name: Optional[str] = Field(None, max_length=100)
     description: Optional[str] = None
-    color: Optional[str] = Field(None, max_length=7)
+    color: Optional[str] = Field(None, max_length=7, pattern=r'^#[0-9A-Fa-f]{3}([0-9A-Fa-f]{3})?$')
     category: Optional[WorkflowStateCategory] = None
     display_order: Optional[int] = None
     is_default: Optional[bool] = None
@@ -31,7 +31,7 @@ class WorkflowStateResponse(BaseModel):
     id: str
     name: str = Field(max_length=100)
     description: Optional[str]
-    color: Optional[str] = Field(None, max_length=7)
+    color: Optional[str] = Field(None, max_length=7, pattern=r'^#[0-9A-Fa-f]{3}([0-9A-Fa-f]{3})?$')
     category: WorkflowStateCategory
     project_id: str
     display_order: int

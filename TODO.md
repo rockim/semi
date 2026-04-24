@@ -3,7 +3,6 @@
 ## Active
 
 ## Backlog
-- [ ] SEMI-TASK-005: Workflow state model
 - [ ] SEMI-TASK-006: Issue CRUD API
 - [ ] SEMI-TASK-007: Project CRUD API
 - [ ] SEMI-TASK-008: Dashboard view
@@ -19,3 +18,4 @@
 - [x] SEMI-TASK-003: Issue domain model — merged PR #10 (2026-04-24)
 - [x] SEMI-TASK-004: Project domain model — commit 0d91a79 (2026-04-24)
 - [x] SEMI-TASK-005: Workflow state model — commit 8639174 (2026-04-24)
+- [x] SEMI-TASK-021: Enforce workflow color validation and clean task status — commit (this commit) (2026-04-24)

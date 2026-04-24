@@ -44,12 +44,20 @@ def test_workflow_state_create_name_max_length():
         WorkflowStateCreate(name="A" * 101, project_id="p", display_order=0)
 
 
-def test_workflow_state_create_color_max_length():
-    valid = WorkflowStateCreate(name="State", project_id="p", display_order=0, color="#FFFFFF")
-    assert valid.color == "#FFFFFF"
-
+def test_workflow_state_create_color_validation():
+    # valid 6-digit hex
+    assert WorkflowStateCreate(name="S", project_id="p", display_order=0, color="#FFFFFF").color == "#FFFFFF"
+    # valid 3-digit hex
+    assert WorkflowStateCreate(name="S", project_id="p", display_order=0, color="#FFF").color == "#FFF"
+    # too long
     with pytest.raises(Exception):
-        WorkflowStateCreate(name="State", project_id="p", display_order=0, color="#FFFFFFF0")
+        WorkflowStateCreate(name="S", project_id="p", display_order=0, color="#FFFFFFF0")
+    # not hex format
+    with pytest.raises(Exception):
+        WorkflowStateCreate(name="S", project_id="p", display_order=0, color="nothex")
+    # missing hash
+    with pytest.raises(Exception):
+        WorkflowStateCreate(name="S", project_id="p", display_order=0, color="FFFFFF")
 
 
 def test_workflow_state_update_all_optional():
