@@ -1,13 +1,13 @@
 from datetime import datetime
 from typing import Optional
 
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
 
 from app.domain.issue import IssuePriority, IssueStatus, IssueType
 
 
 class IssueCreate(BaseModel):
-    title: str
+    title: str = Field(max_length=255)
     description: Optional[str] = None
     status: IssueStatus = IssueStatus.TODO
     priority: IssuePriority = IssuePriority.MEDIUM
@@ -32,7 +32,7 @@ class IssueResponse(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
     id: str
-    title: str
+    title: str = Field(max_length=255)
     description: Optional[str]
     status: IssueStatus
     priority: IssuePriority

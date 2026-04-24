@@ -62,6 +62,15 @@ def test_issue_update_partial():
     assert update.title is None
 
 
+def test_issue_create_title_max_length():
+    valid = IssueCreate(title="A" * 255, project_id="p", reporter_id="u")
+    assert len(valid.title) == 255
+
+    import pytest
+    with pytest.raises(Exception):
+        IssueCreate(title="A" * 256, project_id="p", reporter_id="u")
+
+
 def test_issue_response_from_attributes():
     from datetime import datetime, timezone
     from unittest.mock import MagicMock
